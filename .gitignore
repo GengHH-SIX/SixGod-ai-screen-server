@@ -1,0 +1,6 @@
+.DS_Store
+**._**
+.vscode/
+.idea/
+node_modules/
+dist/
